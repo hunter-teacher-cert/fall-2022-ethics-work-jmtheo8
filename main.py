@@ -1,31 +1,32 @@
 
-def getTokens(curTokens):
-	global tokens
+def getStones(currentStones):
+	global stones
 	
-	print("How many tokens would you like to take? ", end='')
+	print("How many stone(s) will you take from the pile? ", end='')
 	take = int(input())
 	
 	if (take < 1 or take > 3):
-		print("Number must be between 1 and 3.\n")
-		getTokens(curTokens)
+		print("ERROR...Number of stones must be between 1 and 3. Try again.\n")
+		getStones(currentStones)
 		return
 	
-	tokens = curTokens - take
-	print(f'You take {take} tokens.')
-	print(f'{tokens} tokens remaining.\n')
+	stones = currentStones - take
+	print(f'You took {take} stone(s).')
+	print(f'{stones} stones remaining.\n')
 
-def compTurn(curTokens):
-	global tokens
+def compTurn(currentStones):
+	global stones
 	
-	take = curTokens % 4
-	tokens = curTokens - take
-	print (f'Computer takes {take} tokens.')
-	print (f'{tokens} tokens remaining.\n')
+	take = currentStones % 4
+	stones = currentStones - take
+	print (f'Computer takes {take} stones.')
+	print (f'{stones} stones remain.\n')
 	
 
-tokens = 12
-while (tokens > 0):
-	getTokens(tokens)
-	compTurn(tokens)
+stones = 21
+while (stones > 0):
+	getStones(stones)
+	compTurn(stones)
 
-print("Computer wins!")
+print("The computer won!")
+print("Try again?")
