@@ -1,4 +1,4 @@
-# ---Course: Ethics
+# ---Course: Ethics CSCI-77800
 # ---Semester Fall 2022
 # ---Format/IDE:Python/Colab
 
