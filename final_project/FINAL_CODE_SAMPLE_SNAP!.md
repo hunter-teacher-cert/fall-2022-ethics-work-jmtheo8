@@ -1,6 +1,6 @@
 <h1>Exploring the Ethics of Digital Accessibility</h1> 
 <h2>Authors: Jerusha Theobald & Tanya Wardally</h2>
-<h2>Course: Ethics CSCI-77800 - Final Code Sample</h2>
+<h2>Course: Ethics CSCI-77800 - Final Code Sample 2 of 2</h2>
 <h2>Semester: Fall 2022</h2>
 
 <h2>________________________________________________________________________</h2>
