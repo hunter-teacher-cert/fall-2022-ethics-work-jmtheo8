@@ -166,7 +166,6 @@ if playing == 'yes':
 
 
 # --End
-
 else:
     print('Thanks for taking our DIGITAL ACCESSIBILTY KNOWLEDGE challenge.')
     quit()
