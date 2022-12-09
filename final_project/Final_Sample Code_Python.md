@@ -1,4 +1,4 @@
-<h1>TItle: FINAL ETHICS CODE DEMO</h1>
+<h1>FINAL ETHICS CODE DEMO (1 of 2 code samples)</h1>
 <h2>_________________________</h2>
 <h1>Exploring the Ethics of Digital Accessibility</h1> 
 <h2>Course: Ethics CSCI-77800 - Final Code Sample 1 of 2</h2>
