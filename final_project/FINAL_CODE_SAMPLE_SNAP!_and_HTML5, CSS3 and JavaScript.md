@@ -1,7 +1,7 @@
-<h1>FINAL ETHICS CODE DEMO (2 of 2 code samples)</h1>
+<h1>FINAL ETHICS CODE DEMO (2 of 3 code samples)</h1>
 <h2>_________________________</h2>
 <h1>Exploring the Ethics of Digital Accessibility</h1> 
-<h2>Course: Ethics CSCI-77800 - Final Code Sample 2 of 2</h2>
+<h2>Course: Ethics CSCI-77800 - Final Code Sample 2 of 3</h2>
 <h2>Semester: Fall 2022</h2>
 
 <h2>________________________________________________________________________</h2>
@@ -24,5 +24,20 @@
 <h3>PROGRAM TWO Description:</h3> 
 <p>Digital story that demonstrates accessible digital inclusion for fine motor disabilities, ensuring that a user will be able to access this platform. Components included are a listening library that needs to be manipulated inclusive of a microphone for the user to include input. Program two illustrates visual block programming design with ethically  accessible attributes that affords ethical access for all. </p>
 <h2>________________________________________________________________________</h2>
-<h2>SNAP! CODE SAMPLES FOLLOW:</h2>
+
 <h3>https://snap.berkeley.edu/snap/snap.html#present:Username=twardally&ProjectName=Demo1</h3>   <h3>https://snap.berkeley.edu/snap/snap.html#present:Username=twardally&ProjectName=Demo2</h3>  
+<h2>________________________________________________________________________</h2>
+<br>
+<h2>_________________________</h2>
+<h1>Exploring the Ethics of Digital Accessibility</h1> 
+<h2>Course: Ethics CSCI-77800 - Final Code Sample 3 of 3</h2>
+<h2>Semester: Fall 2022</h2>
+<h2>Code Language:</h2> 
+<h3>HTML5, CSS3 and JavaScript</h3>
+<h3>Code IDE: ​​https://glitch.com</h3>
+<h2>________________________________________________________________________</h2>
+<h3>Code Component Description and Premise:</h3>
+<p>The following code sample was developed using exemplars of HTML5, CSS3 and JavaScript that demonstrate elements of web accessibility features and responsive design, to elaborate key understandings and provide resources to support digital accessibility inclusive efforts in the web design and launch instructional process for our peers and students.</p>
+<h2>________________________________________________________________________</h2>
+<h2>HTML5, CSS3 and JavaScript Code Sample Follows:</h2>
+<h3>https://intro-to-digital-accessibility.glitch.me/</h3>
